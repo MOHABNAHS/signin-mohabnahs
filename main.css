@@ -1,0 +1,29 @@
+/* بسم الله الرحمن الرحيم */
+body {
+    background-color: beige;
+    display: flex;
+    flex-direction: column;
+    padding: 100px;
+    gap: 10px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+}
+
+button {
+    margin-top: 20px;
+    width: 300px;
+}
+
+input {
+    outline: none;
+    padding: 10px;
+    font-size: 20px;
+}
+
+label{
+    font-size: 20px;
+}
